@@ -1,11 +1,11 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "Illusion Free Script",
-   LoadingTitle = "Loading...",
-   LoadingSubtitle = "by rune",
+   Name = "Illusion",
+   LoadingTitle = "Illusion Free Script",
+   LoadingSubtitle = "by itstherune",
    Theme = "Default",
-   ToggleUIKeybind = "K", -- Press K to open/close UI (ESC no longer breaks it)
+   ToggleUIKeybind = "K",
    ConfigurationSaving = {
       Enabled = false
    },
